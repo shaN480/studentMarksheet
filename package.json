@@ -1,0 +1,16 @@
+{
+  "name": "exeterproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.18.0",
+    "nodemon": "^2.0.7"
+  }
+}
